@@ -16,8 +16,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GOVAI-Govairnment%20Takeover-F2C94C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-27AE60?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-2D9CDB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-AGI-27AE60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-Hexagon-2D9CDB?style=for-the-badge" />
 </p>
 
 ---
