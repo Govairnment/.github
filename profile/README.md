@@ -153,6 +153,7 @@ Every decision is auditable.
 
 - Next.js (App Router)
 - React
+- Python
 - Tailwind CSS
 - Solana-anchored proofs (concept)
 - Supabase indexing (concept)
