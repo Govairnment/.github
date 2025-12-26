@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="https://govairnment.com/logo.png" width="140" alt="Govairnment Logo" />
+  <img src="https://i.ibb.co/JFzzLsWD/govairnment.jpg" width="140" alt="Govairnment Logo" />
 </p>
 
 <h1 align="center">Govairnment</h1>
